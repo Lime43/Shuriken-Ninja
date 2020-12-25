@@ -18,8 +18,6 @@ public class CanvasUI : MonoBehaviour
     [Header(" ------- Pause Menu Refs -------")]
     [SerializeField] GameObject pauseMenu;
     public Text currentLevelText;
-
-    // Testing out gitHub 
     #region MainUI 
 
     public void playSpriteCombo()
